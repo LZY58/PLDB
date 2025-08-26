@@ -1,0 +1,2 @@
+layer1 R² score: 0.9996414505767421
+layer1 Test mse: 0.063
